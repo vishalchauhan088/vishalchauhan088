@@ -3,16 +3,18 @@
 
 - 🌱 I’m currently learning **MERN STACK**
 
-- 💬 Ask me about **DSA react node express mySql**
+- 💬 Ask me about **DSA react node express DBMS**
 
 - 📫 How to reach me **vishalchauhan0688@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/vishal_0688" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vishal_0688" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/vishalchauhan0688" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/vishalchauhan0688" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/vishalchauhan0688" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishalchauhan0688" height="30" width="40" /></a>
 <a href="https://instagram.com/vishalchauhan0688" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vishalchauhan0688" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/vishalchauhan0688/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/vishalchauhan0688/" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/vishalchauhan7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="vishalchauhan7" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/vishal0688" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vishal0688" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/vishalchauhan0688" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vishalchauhan0688" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -21,3 +23,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishalchauhan088&show_icons=true&locale=en&layout=compact" alt="vishalchauhan088" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishalchauhan088&show_icons=true&locale=en" alt="vishalchauhan088" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishalchauhan088&" alt="vishalchauhan088" /></p>
